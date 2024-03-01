@@ -4,7 +4,7 @@ import CLOGO from "../../assets/logocart.svg";
 const Home = () => {
   return (
     <div className="home_main">
-      <NavLink to="/catalog/drinks" className="catalog_category">
+      <NavLink to="/drinks" className="catalog_category">
         <img className="icon" src={CLOGO} alt="" /> Ichimliklar
       </NavLink>
       <NavLink to="/catalog/sweets" className="catalog_category">
