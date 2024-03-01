@@ -1,0 +1,30 @@
+footer {
+  width: 100%;
+  height: 100px;
+  /* background-color: red; */
+  margin-bottom: 30px;
+  border-top: 1px solid #e6e6e6;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding-top: 15px;
+}
+ul > li,
+a {
+  font-size: 20px;
+  color: #58b320;
+  margin: auto;
+}
+
+/* info
+Daejeonda joylashgan bag'ri keng kichkinagina dokoncha
+Siz o'ylagandanham arzonroq va sifatli mahsulotlar bo'lishi uchun
+harakattamiz.
+Tekpe butun koreya bo'ylab mavjud.
+010-7531-9153
+010-6706-0757
+대전 동구 성동로37번길 38 1층
+자양동 85-16 알할랄 1층 */
