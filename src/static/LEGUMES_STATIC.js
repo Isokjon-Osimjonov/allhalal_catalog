@@ -8,36 +8,36 @@ export const LEGUMES_STATIC = [
   {
     id: 0,
     name: "Garoh",
-    price: "9 000",
+    price: "4 000",
     image: garoh,
     amount: "1 kg",
   },
   {
     id: 0,
     name: "Grechka",
-    price: "9 000",
+    price: "5 500",
     image: grechka,
     amount: "1 kg",
   },
   {
     id: 0,
     name: "Grechka",
-    price: "9 000",
+    price: "5 500",
     image: grechka2,
     amount: "1 kg",
   },
   {
     id: 0,
     name: "Mosh",
-    price: "9 000",
+    price: "7 000",
     image: mosh,
     amount: "1 kg",
   },
   {
     id: 0,
-    name: "Vvelka",
-    price: "9 000",
+    name: "Uvelka",
+    price: "8 000",
     image: vvelka,
     amount: "700 gr",
-  },
+  }
 ];
