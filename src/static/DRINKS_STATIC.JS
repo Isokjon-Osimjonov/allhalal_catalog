@@ -11,7 +11,7 @@ export const DRINKS_STATIC = [
     name: "Bliss",
     price: "4 000",
     image:
-      "https://catalog.korzinka.uz/storage/catalog-products/2024/2/small_65dd703630aca.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-__vZg03NNg5pAU1VAhKuQx8HTXQ5T8z3xBdcnnMwjw&s",
     amount: "1 Dona",
   },
   {
