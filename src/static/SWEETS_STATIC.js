@@ -25,7 +25,7 @@ export const SWEETS_STATIC = [
   {
     id: 0,
     name: "Bounty",
-    price: "5 000",
+    price: "2 000",
     image:
       "https://m.media-amazon.com/images/I/51H3bd4ChOL._AC_UF1000,1000_QL80_.jpg",
     amount: "1 Dona",
