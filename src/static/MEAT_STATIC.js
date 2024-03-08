@@ -9,7 +9,12 @@ import tovuqson from '../assets/tsl.jpg'
 import tovuqqanot from '../assets/qanotcha.jpg'
 import moljigar from '../assets/mj.jpg'
 import butuntovuq from '../assets/bt.jpg'
-
+// import salyami from '../assets/kolbasa/salyami.png'
+import elitnaya from '../assets/kolbasa/elitnaya.png'
+import sasiska from "../assets/kolbasa/sasiska.png";
+import mazalisasiska from "../assets/kolbasa/mazalisasiska.png";
+import vastochnaya from "../assets/kolbasa/vastochnaya.png";
+import sam from "../assets/kolbasa/sam.png";
 
 export const MEAT_STATIC = [
   {
@@ -84,10 +89,84 @@ export const MEAT_STATIC = [
   },
 
   {
-    id: 0,
+    id: 4,
     name: "Butun tovuq",
     price: "3 800",
     image: butuntovuq,
     amount: "1 kg",
+  },
+  {
+    id: 0,
+    name: "Servelat katta",
+    price: "16 000",
+    image:
+      "https://spar-lg.com/image/cache/catalog/image/catalog/product/38193-700x700.jpg",
+    amount: "1 Dona",
+  },
+  {
+    id: 0,
+    name: "Servelat kichkina",
+    price: "11 000",
+    image:
+      "https://spar-lg.com/image/cache/catalog/image/catalog/product/38193-700x700.jpg",
+    amount: "1 Dona",
+  },
+  {
+    id: 0,
+    name: "Elitnaya ",
+    price: "16 000",
+    image: elitnaya,
+    amount: "1 Dona",
+  },
+  {
+    id: 0,
+    name: "Mazzali sasiska",
+    price: "8 000",
+    image: mazalisasiska,
+    amount: "",
+  },
+  {
+    id: 0,
+    name: "Vastochnaya",
+    price: "13 000",
+    image: vastochnaya,
+    amount: "1 Dona",
+  },
+  {
+    id: 0,
+    name: "Samarqand",
+    price: "13 000",
+    image: sam,
+    amount: "1 Dona",
+  },
+  {
+    id: 0,
+    name: "Doktrskiy",
+    price: "11 000",
+    image:
+      "https://almaty.instashop.kz/upload/resize_cache/iblock/40d/476_342_1/40de92494c320a4cff5f93de5a88def2.jpeg",
+    amount: "1 Dona",
+  },
+  {
+    id: 0,
+    name: "Indeyka",
+    price: "9 000",
+    image:
+      "https://indelika.com/wp-content/uploads/2020/12/Untitled-3-kopiya-min.png",
+    amount: "1 Dona",
+  },
+  {
+    id: 0,
+    name: "Mol sasiska",
+    price: "8 500",
+    image: sasiska,
+    amount: "",
+  },
+  {
+    id: 0,
+    name: "Tovuq sasiska",
+    price: "8 000",
+    image: sasiska,
+    amount: "",
   },
 ];

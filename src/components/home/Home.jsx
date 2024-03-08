@@ -14,7 +14,7 @@ const Home = () => {
         <img className="icon" src={CLOGO} alt="" /> Tuzlamalar
       </NavLink>
       <NavLink to="/catalog/meats" className="catalog_category">
-        <img className="icon" src={CLOGO} alt="" /> Go&apos;sht
+        <img className="icon" src={CLOGO} alt="" /> Go&apos;sht mahsulotlari
       </NavLink>
       <NavLink to="/catalog/condiments" className="catalog_category">
         <img className="icon" src={CLOGO} alt="" /> Ziravorlar
