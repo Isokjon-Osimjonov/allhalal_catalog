@@ -13,7 +13,7 @@ export const PICKLES_STATIC = [
   {
     id: 0,
     name: "Gherkins",
-    price: "7 000",
+    price: "5 000",
     image:
       "https://albazaar.s3.ap-northeast-2.amazonaws.com/N1HQQ7LAI4photo_2020-04-28_20-13-05.jpg",
     amount: "1 Dona",
@@ -75,14 +75,14 @@ export const PICKLES_STATIC = [
   {
     id: 0,
     name: "Tomat pasta ",
-    price: "6 500",
+    price: "5 300",
     image: "https://optom.app/6770-large_default/uzkand-tomato-paste-340g.jpg",
     amount: "1 Dona",
   },
   {
     id: 0,
     name: "Konserva don",
-    price: "5 000",
+    price: "2 000",
     image: "https://cdn.imweb.me/thumbnail/20230411/1a77d1fab71fc.jpg",
     amount: "1 Dona",
   },

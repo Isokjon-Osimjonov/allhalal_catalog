@@ -48,7 +48,7 @@ export const MEAT_STATIC = [
   {
     id: 0,
     name: "Qo'y ilik suyak",
-    price: "13 500",
+    price: "2 500",
     image: qoyilik,
     amount: "1 kg",
   },
